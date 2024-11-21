@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0ff4c1bc0214a54d8d6f5207976c037, type: 3}
+  m_Name: Animal3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 50
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - C
+    - T
+    - G
+    - L
+    - N
+    - A
+    - Q
+    - D
+    - B
+    - G
+  - Size: 10
+    Row:
+    - H
+    - D
+    - H
+    - E
+    - N
+    - N
+    - L
+    - C
+    - H
+    - A
+  - Size: 10
+    Row:
+    - O
+    - G
+    - R
+    - N
+    - F
+    - W
+    - F
+    - U
+    - E
+    - W
+  - Size: 10
+    Row:
+    - T
+    - N
+    - B
+    - Y
+    - X
+    - R
+    - Z
+    - G
+    - H
+    - S
+  - Size: 10
+    Row:
+    - S
+    - X
+    - C
+    - A
+    - V
+    - A
+    - X
+    - B
+    - J
+    - B
+  - Size: 10
+    Row:
+    - Y
+    - K
+    - S
+    - J
+    - F
+    - D
+    - O
+    - R
+    - M
+    - V
+  - Size: 10
+    Row:
+    - J
+    - H
+    - N
+    - Y
+    - V
+    - M
+    - C
+    - V
+    - G
+    - P
+  - Size: 10
+    Row:
+    - L
+    - E
+    - F
+    - R
+    - F
+    - L
+    - X
+    - X
+    - U
+    - M
+  - Size: 10
+    Row:
+    - X
+    - T
+    - J
+    - N
+    - D
+    - L
+    - S
+    - C
+    - M
+    - E
+  - Size: 10
+    Row:
+    - L
+    - O
+    - N
+    - H
+    - C
+    - W
+    - U
+    - C
+    - I
+    - O
+  SearchWords:
+  - Word: CHO
+  - Word: MEO
+  - Word: GA
